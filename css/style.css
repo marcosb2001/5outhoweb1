@@ -32,3 +32,8 @@ li {
 footer {
     text-align: center;
 }
+
+.links {
+    margin: 10ch auto;
+    text-align: center;
+}
