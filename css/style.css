@@ -1,0 +1,34 @@
+
+body {
+    background-image: url(../images/fondo1.png);
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.world {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 4ch;
+}
+
+.worldimg {
+    width: 24%;
+}
+
+ul {
+    text-align: center;
+    margin: 10 auto;
+}
+
+li {
+    text-align: center;
+    display: inline;
+    padding: 0 4ch;
+}
+
+footer {
+    text-align: center;
+}
